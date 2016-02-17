@@ -1,1 +1,1 @@
-Let's create a merge conflict.
+It's merge conflicting time.
